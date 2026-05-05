@@ -10,8 +10,7 @@ public class RegisterMonitoringNodesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RegisterMonitoringNodesApplication.class, args);
-		
-		System.out.println("Mahesh");
+
 	}
 
 }
